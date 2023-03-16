@@ -41,7 +41,8 @@ padding-top: 15px;
 
     .container2{
     height:80vh;
-    background-color:green ;
+    background-image:url(./Images/pexels-anna-shvets-3962291.jpg) ;
+    background-size: cover;
     width: 45%;
     }
     .button{
@@ -51,5 +52,4 @@ padding-top: 15px;
      border-radius: 10px;
      border: none;
     }
-    
     
