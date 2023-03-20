@@ -11,8 +11,8 @@ color: brown;
 .registration-form{
 position: absolute;
 left: 40%;
-top: 50;
-left: 50;
+top: 50px;
+left: 50px;
 width: 400px;
 transform: translate(-40%,-50%);
 width:500px;
