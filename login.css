@@ -4,17 +4,17 @@
     box-sizing: border-box;
 }
 body{
-background-color: blue;
+background-color: white;
 background-size: cover;
 color: brown;
 }
 .registration-form{
-position: absolute;
-left: 40%;
+/* position: absolute; */
+left: 80%;
 top: 50px;
-left: 50px;
+/* left: 50px; */
 width: 400px;
-transform: translate(-40%,-50%);
+/* transform: translate(-40%,-50%); */
 width:500px;
 }
 .registration-form h1{
