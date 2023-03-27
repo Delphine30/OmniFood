@@ -80,3 +80,25 @@ button a{
     height: 30px;
     margin-left: 50px;
 }
+@media screen and (max-width:800px){
+
+}
+    .nav-bar ul{
+        display: block;
+        float: left;
+        margin-left: 10px;
+    }
+    .nav-bar{
+        height: 15vh;
+        display: block;
+
+    } 
+    .videos{
+    display: block;
+    gap: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: block;
+
+    
+    } 
