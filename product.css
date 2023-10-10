@@ -30,15 +30,26 @@ padding-top: 15px;
 }
 .container-1{
 display: flex;
+font-size: 16px;
+margin-left: 30px;
 }
 .container-2{
+    margin-top: 10%;
+    margin-left: 30px;
     display: flex;
+    font-size: 16px;
     }
     .head{
-    margin-left: 300px;
+    margin-left: 20%;
     margin-top: 20px;
     font-size: 30px;
     }
+    .well{
+        margin-left: 20%;
+        margin-top: 5%;
+        font-size: 30px;
+       
+        }
     .all{
     background-color: rgb(184, 211, 235);
     }

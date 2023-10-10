@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: grey;
+    background: gray;
 }
 .box-container{
     width: 90%;
@@ -20,7 +20,7 @@ body{
 .box1{
     width: 50%;
     height: 90%;
-    background: green;
+    background: rgb(85, 235, 235);
     opacity: 0.8;
 }
 .box1 li{
@@ -29,12 +29,13 @@ body{
 .box1 h3{
 text-align: center;
 font-size: 18px;
-color: white;
+color: rgb(176, 54, 233);
+text-decoration-line: underline;
 font-family: monospace;
 padding: 20px;
 }
 .box2{
-    width: 50%;
+     width: 50%;
     height: 90%;
     background: black;
     opacity: 0.8;
@@ -54,12 +55,11 @@ padding: 20px;
     display: flex;
     margin-right: 20px;
 }
- button: 10%;
-
+  .button: 10%;
    width: 100%;
     background:grey {
 
-}
+} 
 nav ul{
     list-style: none;
     display: flex;

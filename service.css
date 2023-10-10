@@ -38,13 +38,34 @@ a{
     padding-top: 15px;
     
     }
+    .head-1{
+        background: pink;
+        margin-left: 0.2px;
+        font-size: 15px;
+    }
+   
+    .head-2{
+        background: pink;
+        margin-left: 0.2px;
+        font-size: 15px;
+    }
+    .head-3{
+        background: pink;
+        margin-left: 0.2px;
+        font-size: 15px;
+    }
+    .head-4{
+        background: pink;
+        margin-left: 0.2px;
+        font-size: 15px;
+    }
     .container-2{
         display: flex;
-        margin-top: 20px;
+        margin-top: 30px;
+        margin-left: 20px;
         }
         .head{
-        margin-left: 200px;
-        /* margin-top: 40px; */
+        margin-left: 15%;
         font-size: 20px;
         }
         /* .all{
@@ -63,21 +84,22 @@ a{
     display: flex;
     flex-direction: row;
     margin-top: 20px;
+    margin-left: 12%;
 }
 button{
-    background: black;
+    background:green;
     color: white;
     width: 80px;
     height: 30px;
     border-radius: 5px;
-    margin-left:50%;
-    margin-bottom: 250px;  
+    margin-left:40%;
+    margin-bottom: 100px;  
 }
 button a{
     font-size: 20px;
 }
 .videos button{
-    background: black;
+    background:green;
     color: white;
     width: 100px;
     height: 30px;
